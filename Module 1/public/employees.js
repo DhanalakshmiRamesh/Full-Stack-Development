@@ -2,7 +2,7 @@ const employees = [{
   name: "John",
   role: "Developer"
 }, {
-  name: "dinisha",
+  name: "dhana",
   role: "Developer"
 },
 {
